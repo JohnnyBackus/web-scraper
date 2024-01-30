@@ -9,7 +9,7 @@
 - [CodeFellows Python Lab Instructions](https://codefellows.github.io/code-401-python-guide/reference/submission-instructions/labs/)
 - [CodeFellows README template](https://codefellows.github.io/code-401-python-guide/reference/submission-instructions/labs/README-template.html)
 - [ChatGPT chat]()
-- Also used GitHub CoPilot to troubleshoot accessing desired data from json file.
+- Also used GitHub CoPilot to..
 
 ### Setup
 
