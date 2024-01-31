@@ -8,8 +8,8 @@
 
 - [CodeFellows Python Lab Instructions](https://codefellows.github.io/code-401-python-guide/reference/submission-instructions/labs/)
 - [CodeFellows README template](https://codefellows.github.io/code-401-python-guide/reference/submission-instructions/labs/README-template.html)
-- [ChatGPT chat]()
-- Also used GitHub CoPilot to..
+- lecture demo code used for reference
+- Used GitHub CoPilot to explain f.write() function
 
 ### Setup
 
@@ -20,4 +20,6 @@
 
 1. Install requests
 2. Install beautifulsoup4
-3. Test API and methods using browser. Below are some samples that demonstrate working code:
+3. python3 scraper.py
+    - reassign url variable with other wikipedia articles
+    - scraper.py created citations.txt file, but I commented out this code before submission since this was not a part of the assignment
